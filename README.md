@@ -1,4 +1,4 @@
-![IQR Tokens](logo.png "IQR Token")
+![IQR Tokens](logo.jpg "IQR Token")
 
 # IQR Token smart contract
 
@@ -72,5 +72,5 @@ No
 ## rinkeby test
 
 ### Links
-1. _IQR Token_ - https://rinkeby.etherscan.io/address/0xa4b3c58897d8c6f89492bc84eebfcd689e7351dc#readContract
-2. _IQR Smart contract_ - https://rinkeby.etherscan.io/token/0x0ceebef652067ee3382f2949a8f46b2d26f2a90e#readContract
+1. _IQR Token_ - https://rinkeby.etherscan.io/token/0x0ceebef652067ee3382f2949a8f46b2d26f2a90e#readContract
+2. _IQR Smart contract_ - https://rinkeby.etherscan.io/address/0xa4b3c58897d8c6f89492bc84eebfcd689e7351dc#readContract
